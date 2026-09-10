@@ -1,0 +1,40 @@
+{
+  "name": "newdots-design",
+  "version": "1.0.0",
+  "description": "Visual Design Language — reverse-engineer any UI inspiration folder into a coherent, reusable design system. Design director + systems engineer as a skill for OpenCode / Claude Code / Cursor.",
+  "type": "module",
+  "bin": {
+    "newdots-design": "bin/install.mjs"
+  },
+  "files": [
+    "skills/",
+    "bin/",
+    "docs/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "design-system",
+    "visual-design-language",
+    "design-tokens",
+    "visual-DNA",
+    "ui-analysis",
+    "design-inspiration",
+    "opencode",
+    "claude-code",
+    "cursor",
+    "skill",
+    "jetpack-compose",
+    "tailwind"
+  ],
+  "author": "JusDots-Devs",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JusDots-Devs/NewDots-Design.git"
+  },
+  "homepage": "https://github.com/JusDots-Devs/NewDots-Design#readme",
+  "engines": {
+    "node": ">=18"
+  }
+}
